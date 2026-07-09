@@ -1,0 +1,10 @@
+El uso de tecnologías abiertas como Node.js democratiza la
+creación de software, permitiendo que iniciativas ciudadanas
+puedan construir sus propias herramientas sin depender de
+grandes corporaciones o costosas licencias privativas.
+Esto fomenta la independencia tecnológica, asegurando que las
+soluciones creadas respondan realmente a las necesidades
+locales y protejan los datos y la privacidad de su comunidad.
+Además, al utilizar código abierto, se promueve la colaboración,
+la transferencia de conocimiento y la transparencia, pilares
+fundamentales para fortalecer cualquier tejido social moderno.

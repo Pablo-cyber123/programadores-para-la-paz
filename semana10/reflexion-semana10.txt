@@ -1,0 +1,10 @@
+Las metodologías ágiles y la automatización transforman
+la manera en que las comunidades se organizan porque
+permiten estructurar el trabajo en pasos pequeños y
+entregables, evitando el estancamiento de los proyectos.
+Canales como Telegram, combinados con herramientas como n8n,
+facilitan la comunicación inmediata y centralizada,
+asegurando que todos los líderes estén informados en
+tiempo real sin depender de procesos manuales lentos.
+Esta sinergia tecnológica reduce la burocracia, aumenta
+la transparencia ciudadana y agiliza la toma de decisiones.

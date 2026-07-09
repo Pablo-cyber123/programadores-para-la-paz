@@ -1,0 +1,8 @@
+¿Qué evento activa el flujo?
+Un nuevo reporte registrado en el servidor web mediante una petición POST a nuestra API (que puede recibirse en n8n mediante un nodo Webhook).
+
+¿Qué mensaje se enviaría a Telegram?
+"Nuevo reporte recibido. Por favor, revisar el sistema para verificar y gestionar la solicitud."
+
+¿Qué información no debería enviarse por seguridad?
+Nombres completos, documentos de identidad, direcciones exactas de las residencias, teléfonos de contacto o cualquier dato personal sensible que vulnere la privacidad del ciudadano.

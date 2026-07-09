@@ -1,0 +1,10 @@
+Una plataforma de participación ciudadana maneja el activo
+más valioso de una comunidad: la confianza de su gente.
+Tener una base de datos robusta es indispensable para
+almacenar el histórico de causas, permitiendo tomar
+decisiones basadas en datos reales y no en suposiciones.
+La autenticación asegura que las interacciones sean
+legítimas, evitando bots o suplantaciones que desvirtúen
+los procesos democráticos. Finalmente, proteger la
+información personal garantiza que ningún ciudadano sufra
+represalias por su participación, consolidando la seguridad.

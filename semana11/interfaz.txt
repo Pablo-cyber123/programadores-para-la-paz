@@ -1,0 +1,13 @@
+Estructura de la Interfaz Comunitaria:
+
+1. Sección de Creación:
+Un formulario claro y accesible para crear una nueva causa comunitaria, que incluya campos de texto para el título, un área de texto descriptiva para los detalles y la fecha automática.
+
+2. Visualización (Feed de Causas):
+Una lista interactiva o cuadrícula (grid) de causas disponibles donde los usuarios puedan leer rápidamente de qué trata cada iniciativa y ver su estado actual.
+
+3. Interacción (Botón y Contador):
+Cada causa listada tendrá un botón destacado de "Apoyar causa" y justo al lado un contador dinámico que muestre en tiempo real cuántas personas han respaldado la iniciativa.
+
+4. Privacidad por diseño:
+Toda la interfaz debe estar diseñada de forma limpia y responsiva, garantizando que nunca se muestre información privada de los usuarios creadores o de quienes apoyan.

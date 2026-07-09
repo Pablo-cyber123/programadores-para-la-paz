@@ -1,0 +1,7 @@
+El login es el mecanismo de seguridad que permite identificar y verificar a un usuario mediante
+sus credenciales (como correo y contraseña) antes de otorgarle acceso a la plataforma.
+Es vital proteger ciertas rutas de la aplicación porque contienen información privada, registros
+de auditoría o permiten ejecutar acciones administrativas que no deberían estar disponibles para
+cualquier persona sin autorización. Por principios estrictos de ciberseguridad, nunca se deben
+exponer públicamente contraseñas en texto plano, documentos de identidad, números de teléfono,
+direcciones exactas de residencia, tokens de sesión, claves de API ni datos sensibles de la comunidad.

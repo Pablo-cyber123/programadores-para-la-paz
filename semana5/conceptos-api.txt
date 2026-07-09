@@ -1,0 +1,5 @@
+Qué hace esta ruta:
+La ruta POST /reporte recibe datos (como un JSON) en el cuerpo de la petición. Extrae la propiedad "mensaje" y responde devolviendo un objeto JSON que confirma la recepción ("Reporte recibido") junto con el mensaje original que fue enviado.
+
+Para qué podría servir en una aplicación comunitaria:
+Podría servir para crear un buzón digital donde los vecinos envíen reportes sobre problemas en su sector (ej. daños en infraestructura, alertas de seguridad, fallas de servicios). La API los recibe, confirma que llegaron correctamente y podría almacenarlos en una base de datos centralizada.

@@ -1,0 +1,10 @@
+Las APIs son fundamentales para que las comunidades compartan
+información de manera organizada, ya que actúan como puentes
+que conectan diferentes aplicaciones, bases de datos y usuarios.
+Al crear una API comunitaria, se estandariza la forma en que
+se envían y reciben datos, como reportes de infraestructura,
+alertas de seguridad o eventos vecinales, evitando el caos de
+la información desestructurada. Esto permite que múltiples
+plataformas (aplicaciones móviles, páginas web o bots de chat)
+se alimenten de la misma fuente de verdad, garantizando que
+todos los ciudadanos tengan acceso rápido a datos confiables.

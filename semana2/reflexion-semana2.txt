@@ -1,0 +1,10 @@
+Saber usar la terminal es una habilidad fundamental para cualquier
+desarrollador, ya que otorga un control total, rápido y directo
+sobre el sistema operativo y el entorno de trabajo del proyecto.
+A diferencia de las interfaces gráficas que pueden ser limitadas,
+la terminal permite ejecutar tareas complejas, automatizar procesos
+y gestionar dependencias de software con comandos muy precisos.
+Además, la gran mayoría de servidores y entornos de despliegue
+en la nube no tienen interfaz gráfica, por lo que dominar la
+terminal es el único camino para administrar, configurar y
+solucionar problemas en un proyecto profesional en producción.

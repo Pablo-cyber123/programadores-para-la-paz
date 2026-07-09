@@ -1,0 +1,10 @@
+Recibir información ciudadana de manera estructurada mediante
+plataformas tecnológicas es vital para garantizar una respuesta
+rápida y eficiente a las necesidades de la comunidad. Cuando los
+datos llegan ordenados en formatos estándar, como objetos JSON,
+los sistemas pueden analizarlos, categorizarlos y asignarlos
+automáticamente a los departamentos responsables sin intervención
+manual. Esto elimina la ambigüedad de los mensajes de texto
+libres, reduce los tiempos de procesamiento y permite crear mapas
+o estadísticas confiables que empoderan a las autoridades y
+vecinos para tomar decisiones inteligentes basadas en datos reales.

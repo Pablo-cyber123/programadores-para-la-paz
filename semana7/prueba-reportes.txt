@@ -1,0 +1,16 @@
+Al consultar la ruta GET /reportes desde el navegador o Postman:
+
+1. Escenario Inicial (Servidor recién encendido):
+La respuesta será un array vacío []. Esto ocurre porque los datos se almacenan temporalmente en la memoria RAM del servidor (en la variable `let reportes = []`).
+
+2. Escenario Posterior (Después de enviar un POST):
+Si enviamos un reporte, al volver a consultar la ruta GET, la respuesta devolverá un array JSON con el historial completo de incidencias, por ejemplo:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Nota técnica: Al guardar en memoria, toda la información se perderá si el servidor (Node.js) se reinicia. En un entorno real de producción, esta API debería conectarse a una base de datos (como MongoDB o PostgreSQL) para lograr persistencia definitiva.

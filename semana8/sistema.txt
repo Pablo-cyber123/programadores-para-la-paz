@@ -1,0 +1,8 @@
+Comando `uname -a`:
+Este comando muestra información detallada y completa sobre el sistema operativo en el que estamos trabajando. Incluye el nombre del kernel, el nombre del host (nodo en la red), la versión exacta del kernel, la fecha de compilación y la arquitectura del procesador (por ejemplo, x86_64).
+
+Comando `whoami`:
+Este comando imprime en pantalla el nombre del usuario con el que estamos autenticados actualmente en la terminal. Es fundamental para verificar si estamos ejecutando comandos como un usuario normal o como administrador (root).
+
+¿Por qué es útil conocer esta información al administrar un servidor?
+Conocer la arquitectura y la versión del sistema es vital para descargar e instalar el software compatible correcto (evitando incompatibilidades). Saber qué usuario somos evita errores de permisos (como intentar modificar configuraciones críticas sin ser root), y nos permite mantener un control estricto sobre quién tiene acceso a los recursos comunitarios del servidor.

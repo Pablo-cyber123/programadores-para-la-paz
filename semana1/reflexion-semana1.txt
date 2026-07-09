@@ -1,0 +1,10 @@
+El uso responsable de la información en internet es la base de
+una participación ciudadana digital sólida, donde cada individuo
+tiene el deber de no solo consumir contenido, sino de analizarlo
+críticamente para no difundir desinformación a la sociedad.
+Esta misma ética y responsabilidad se traslada directamente a
+la organización del trabajo técnico con herramientas como Git.
+En Git, cada "commit" requiere claridad, justificación y orden,
+lo que fomenta la transparencia y el respeto colaborativo,
+evitando conflictos innecesarios en nuestro código fuente.
+Ambos comparten el objetivo de mantener un entorno confiable.

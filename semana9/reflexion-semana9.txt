@@ -1,0 +1,10 @@
+La estabilidad y seguridad de un servidor son aspectos críticos
+para cualquier plataforma comunitaria, ya que de ellos depende
+la disponibilidad y confianza en los servicios tecnológicos.
+Si un servidor falla o es inestable, los ciudadanos pierden
+acceso a información vital y herramientas de participación,
+generando frustración y abandono del proyecto digital. Además,
+proteger el servidor contra ataques garantiza que los datos
+sensibles de la comunidad no caigan en manos equivocadas ni
+sean alterados maliciosamente. En resumen, un servidor robusto
+es la base técnica para sostener el tejido social en línea.

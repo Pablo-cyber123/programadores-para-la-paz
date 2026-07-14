@@ -1,0 +1,5 @@
+1. Un ciudadano o líder comunitario registra una nueva causa en la plataforma especificando los detalles y el propósito.
+2. La información de la causa queda registrada y almacenada en la base de datos del sistema.
+3. Otros miembros de la comunidad ingresan a la plataforma para apoyar la causa y registrar su respaldo.
+4. El sistema contabiliza de forma automática todos los apoyos registrados para determinar el nivel de apoyo.
+5. Una vez finalizado el proceso de recolección, el sistema genera automáticamente un documento PDF formal con la petición y el listado de los apoyos.

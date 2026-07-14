@@ -1,0 +1,3 @@
+Evento que activa la automatización: Se registra una nueva causa en la plataforma comunitaria.
+Mensaje que se envía: "Se ha creado una nueva causa en la plataforma. ¡Ingresa para apoyarla y hacer que nuestra comunidad sea escuchada!"
+Información que no debe enviarse por seguridad: Cédulas de identidad, números de teléfono, direcciones exactas de las viviendas, datos financieros, comentarios sensibles o cualquier otra información personal que vulnere la privacidad de los usuarios.

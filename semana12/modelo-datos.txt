@@ -1,0 +1,15 @@
+Causa
+- id
+- titulo
+- descripcion
+- fecha
+
+Apoyo
+- id
+- causa_id
+- nombre
+- fecha
+
+Explicación:
+- La entidad "Causa" sirve para almacenar toda la información principal de la iniciativa o petición que se está realizando en la comunidad (identificador único, título que resume el propósito, una descripción detallada y la fecha de creación).
+- La entidad "Apoyo" sirve para registrar individualmente a las personas que respaldan una causa específica. Utiliza el campo "causa_id" para relacionar cada apoyo con la causa correspondiente, almacenando además el nombre de la persona que apoya y la fecha en que lo hizo.
